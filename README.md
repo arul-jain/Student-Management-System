@@ -22,3 +22,9 @@ Install the required Python library using `pip`:
 
 ```bash
 pip install mysql-connector-python
+
+## 📷 Screenshot
+
+Here are some glimpses of the project
+
+![image alt](Screenshot 2025-09-14 124837.png)
