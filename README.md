@@ -16,7 +16,7 @@ Before you run this project, make sure you have the following installed:
 - **Python 3.x**
 - **MySQL Server**: You need to have a running MySQL database instance.
 
-### 📷 Screenshot
+## 📷 Screenshot
 
 Here are some glimpses of the project
 
