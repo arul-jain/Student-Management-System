@@ -16,6 +16,12 @@ Before you run this project, make sure you have the following installed:
 - **Python 3.x**
 - **MySQL Server**: You need to have a running MySQL database instance.
 
+### 📷 Screenshot
+
+Here are some glimpses of the project
+
+![image alt](https://github.com/arul-jain/Student-Management-System/blob/e718c978812645b9cf7ec1f20b6a7483289f06f9/Screenshot%202025-09-14%20124837.png)
+
 ### Python Libraries
 
 Install the required Python library using `pip`:
@@ -24,8 +30,4 @@ Install the required Python library using `pip`:
 pip install mysql-connector-python
 
 
-### 📷 Screenshot
 
-Here are some glimpses of the project
-
-![image alt](https://github.com/arul-jain/Student-Management-System/blob/e718c978812645b9cf7ec1f20b6a7483289f06f9/Screenshot%202025-09-14%20124837.png)
