@@ -27,4 +27,4 @@ pip install mysql-connector-python
 
 Here are some glimpses of the project
 
-![image alt](Screenshot 2025-09-14 124837.png)
+![image alt](https://github.com/arul-jain/Student-Management-System/blob/e718c978812645b9cf7ec1f20b6a7483289f06f9/Screenshot%202025-09-14%20124837.png)
